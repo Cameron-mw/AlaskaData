@@ -1,8 +1,10 @@
 body {background: linear-gradient(-45deg, #35577D, #141E30); margin: 0; padding: 0;}
 
-h1 {font-family: Garamond;}
+h1 {font-family: Garamond;
+  background-color: white;}
 
-p {font-family: Didot;}
+p {font-family: Didot;
+   color: white;}
 
 .content {
   padding: 40px;
