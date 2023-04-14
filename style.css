@@ -1,18 +1,14 @@
-body {background: linear-gradient(-45deg, #35577D, #141E30); margin: 0; padding: 0;}
-
 h1 {font-family: Garamond;
-  background-color: white;}
+  background-color: white;
+  padding-top: 100px;
+  width: 100%;}
 
 p {font-family: "Century Gothic";
-   color: white;}
+  color: white;
+  line-height: 1.3em;
+  text-align: center;
+  width: 100%;}
 
-.content {
-  padding: 40px;
-}
-
-.image {
-  background-image: url("https://content.codecademy.com/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
-  background-size: cover;
-  background-position: center;
-  height: 300px;
+.main-banner {
+  background-image: url('main/background.jpg');
 }
