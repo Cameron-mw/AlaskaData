@@ -4,8 +4,8 @@ body {
 }
 
 h1 {
-  font-family: Garamond;
-  background-color: white;
+  font-family: "Courier New", monospace;
+  color: white;
   padding-top: 100px;
   width: 100%;}
 
@@ -22,7 +22,7 @@ h1 {
 }
 
 p {
-  font-family: "Century Gothic";
+  font-family: "Lucida Console", monospace;
   color: white;
   line-height: 1.3em;
   text-align: center;
