@@ -1,36 +1,38 @@
 body {
-  background: rgb(25,25,25);
-  background: linear-gradient(0deg, rgba(25,25,25,1) 0%, rgba(28,24,80,1) 100%);
-  background-attachment:fixed;
-  height:100%;
-}
-
-h1 {
-  font-family: "Monaco", monospace;
-  color: white;
-  padding-top: 100px;
-  width: 100%;
-  text-align: center;
-}
-
-.navigation ul {
-  color: white;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-
-.navigation li {
-  color: white;
-  font-weight: 100;
-  letter-spacing: 2px;
-  padding: 20px;
-}
-
-p {
-  font-family: "Monaco", monospace;
-  color: white;
-  line-height: 1.3em;
-  text-align: center;
-  width: 100%;}
-
+    background: rgb(32,35,99);
+    background: linear-gradient(0deg, rgba(32,35,99,0.68531162464986) 0%, rgba(255,255,255,1) 40%);
+    background-attachment:fixed;
+    height:100%;
+  }
+  
+  h1 {
+    font-family: "Monaco", monospace;
+    color: black;
+    padding-top: 30px;
+    width: 100%;
+    letter-spacing: 2px;
+    text-align: center;
+  }
+  
+  .navigation ul {
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .navigation li {
+    color: black;
+    font-weight: 100;
+    letter-spacing: 2px;
+    padding: 20px;
+  }
+  
+  p {
+    font-family: "Optima", sans-serif;
+    color: black;
+    font-size: 15px;
+    line-height: 1.3em;
+    text-align: center;
+    width: 100%;
+    }
