@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-  font-family: "Courier New", monospace;
+  font-family: "Monaco", monospace;
   color: white;
   padding-top: 100px;
   width: 100%;
@@ -28,7 +28,7 @@ h1 {
 }
 
 p {
-  font-family: "Lucida Console", monospace;
+  font-family: "Monaco", monospace;
   color: white;
   line-height: 1.3em;
   text-align: center;
