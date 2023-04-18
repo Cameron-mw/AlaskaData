@@ -9,7 +9,9 @@ h1 {
   font-family: "Courier New", monospace;
   color: white;
   padding-top: 100px;
-  width: 100%;}
+  width: 100%;
+  text-align: center;
+}
 
 .navigation ul {
   color: white;
