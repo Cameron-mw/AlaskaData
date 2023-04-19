@@ -1,8 +1,8 @@
 body {
     background: rgb(32,35,99);
     background: linear-gradient(0deg, rgba(32,35,99,0.68531162464986) 0%, rgba(255,255,255,1) 40%);
-    background-attachment:fixed;
-    height:100%;
+    background-attachment: fixed;
+    height: 100%;
   }
   
   h1 {
