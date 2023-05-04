@@ -1,5 +1,0 @@
-dash~=2.9
-pandas~=2.0
-geopandas~=0.12
-plotly-express~=0.4
-geojson~=3.0
